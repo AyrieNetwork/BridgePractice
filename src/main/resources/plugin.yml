@@ -1,0 +1,18 @@
+name: BuildPractice
+version: ${project.version}
+main: lol.maltest.buildpractice.BuildPractice
+api-version: 1.16
+load: POSTWORLD
+authors: [ maltest ]
+description: This plugin makes the server a build practice server
+commands:
+  createarena:
+    description: create arena uwu
+  leavearena:
+    description: leavearena
+  joinarena:
+    description: join arena
+  leaderboardtest:
+    description: tet
+  gamemode:
+    aliases: ["gm"]
